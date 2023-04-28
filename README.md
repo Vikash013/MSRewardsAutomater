@@ -9,4 +9,5 @@ To Use:
 3) See in the top banner where it says Today's Points and click on Points Breakdowbn
 4) Where it says PC Search (0/90) click on that and do a few searches until you see the 0/90 increase (running the program without doing this will not generate the 90 points)
 5) Run the program
-6) Enjoy the free and effortless 90 points, you can do this once per day!
+6) Refresh the page or click between a different tab and back to the main site
+7) Enjoy the free and effortless 90 points, you can do this once per day!
