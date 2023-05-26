@@ -1,8 +1,17 @@
 # MSRewardsAutomater
 
-Developed a Java-based application to automate Microsoft Reward tasks which includes a user-friendly GUI for ease of use. Generates search results for 30 randomly selected words (from a text file of every word in the English Language) in Microsoft Edge which allows users to earn 90 points per day through automated searches, saving time and effort.
+## A Java-based application to automate Microsoft Reward tasks. This program includes a user-friendly GUI for ease of use. 
 
-To Use:
+![image](https://github.com/Vikash013/MSRewardsAutomater/assets/112586898/3c7f3f90-9be6-4fe1-9b93-1cb384fc77d1)
+
+### How does it work?
+
+* Reads a text file of every word in the English language
+* Randomly selects 30 of them (because the task this automates rewards 3 points per search for a maximum of 90 points -> need 30 searches to achieve points)
+* Takes advantage of the desktop.browse function to use the Microsoft Edge browser
+* Quickly generates 30 new tabs for each search result in order to make Microsoft Rewards give the user 90 points
+
+### To Use:
 
 1) Go to https://rewards.bing.com/
 2) Make a Microsoft account (or log in)
