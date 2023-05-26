@@ -13,10 +13,21 @@
 
 ### To Use:
 
+0) Download the code and open in an a suitable IDE - a great choice for Java is IntelliJ IDEA
 1) Go to https://rewards.bing.com/
 2) Make a Microsoft account (or log in)
-3) See in the top banner where it says Today's Points and click on Points Breakdowbn
-4) Where it says PC Search (0/90) click on that and do a few searches until you see the 0/90 increase (running the program without doing this will not generate the 90 points)
-5) Run the program
-6) Refresh the page or click between a different tab and back to the main site
-7) Enjoy the free and effortless 90 points, you can do this once per day!
+3) Look in the top banner where it says Today's Points and click on Points Breakdown
+
+![image](https://github.com/Vikash013/MSRewardsAutomater/assets/112586898/c8ee6899-fd22-4aca-8c57-80936bddc446)
+
+5) Where it says PC Search (0/90) click on that and do a few searches until you see the 0/90 increase (running the program without doing this will not generate the 90 points)
+
+![image](https://github.com/Vikash013/MSRewardsAutomater/assets/112586898/a91f032a-ab24-4dfc-a89d-3b8a3363bf36)
+![image](https://github.com/Vikash013/MSRewardsAutomater/assets/112586898/7b2663fb-bcdd-435e-9cf3-77a5dae0ca92)
+
+7) Run the program - this will open 30 tabs of randomly searched words
+8) Refresh the page or click between a different tab and back to the main site
+
+![image](https://github.com/Vikash013/MSRewardsAutomater/assets/112586898/35ec2d46-2fa9-4e37-b90f-3b81fbb19765)
+
+10) Enjoy the free and effortless 90 points, you can do this once per day!
